@@ -6,4 +6,4 @@
 	url = https://github.com/rusefi/kicad6-libraries
 [submodule "kicad-libraries"]
 	path = kicad-libraries
-	url = https://github.com/rusefi/kicad-libraries.git
+	url = https://github.com/Mari232/kicad-libraries.git
