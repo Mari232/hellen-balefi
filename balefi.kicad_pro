@@ -419,7 +419,10 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/IGN14": "Ignition",
+      "/IGN23": "Ignition"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -471,6 +474,34 @@
     [
       "e67205d3-f528-4491-a5d6-c7ee533622b4",
       ""
+    ],
+    [
+      "576033b0-96d0-4ff2-9ffd-baf98d1c9bed",
+      "Injection1"
+    ],
+    [
+      "442e0026-f39c-42a1-883c-2a1bbfd0cc59",
+      "Ignition1"
+    ],
+    [
+      "f97e513c-eb3a-4b91-a398-ed2484a4e705",
+      "Ignition2"
+    ],
+    [
+      "ee7fbefe-d407-4dfa-ae31-a40ec35f4708",
+      "Outputs"
+    ],
+    [
+      "d2164204-0426-48e7-a8df-dbb93ded3580",
+      "Injection2"
+    ],
+    [
+      "fa1fa027-8ab9-4a09-9af1-95aac4a133ec",
+      "Injection3"
+    ],
+    [
+      "21f9f529-25a9-43da-b804-44f61bfe9d7a",
+      "Injection4"
     ]
   ],
   "text_variables": {}

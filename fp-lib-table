@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "rusefi_lib")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/rusefi_lib.pretty")(options "")(descr ""))
+)
